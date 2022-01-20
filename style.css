@@ -13,3 +13,13 @@ color: #FABE4C;
     height: 40px;
    
 }
+.bg-jacket{
+    color: #363958;
+    font-size: 48px ;
+}
+.bg-grey{
+    background-color: #F1F1F1;
+}
+.rounded-4{
+    border-radius: 20px;
+}
